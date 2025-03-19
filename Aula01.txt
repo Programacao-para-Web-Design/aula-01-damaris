@@ -63,64 +63,7 @@
 </body>
 </html>
 
-6-
-<DOCTYPE html>
-<head>
-      <meta charse="UTF-8>
-      <title> </title>
-</head>
-<body>
-</body>
-</html>
 
-7-
-<DOCTYPE html>
-<head>
-      <meta charge="UTF-8"
-      <title> </title>
-</head.
-<body>
-</body>
-</html>
-
-
-8-
-<DOCTYPE html>
-<head>
-      <meta charge="UTF-8"
-      <title> </title>
-</head.
-<body>
-</body>
-</html>
-
-
-9-
-<DOCTYPE html>
-<head>
-      <meta charge="UTF-8"
-      <title> </title>
-</head.
-<body>
-</body>
-</html>
-
-
-
-10-
-<DOCTYPE html>
-<head>
-      <meta charge="UTF-8"
-      <title> </title>
-</head.
-<body>
-</body>
-</html>
-
-
-
-
-      
 
 
 
